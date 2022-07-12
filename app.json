@@ -5,10 +5,8 @@
     "env": {
         "FONTS_ZIP_URL": {
             "description": "需要添加的fonts的zip包url,
-            "value": ""
+            "value": "222"
         }
     },
-    "website": "https://github.com/z01-ahaufun/onlyofficeoku",
-    "repository": "https://github.com/z01-ahaufun/onlyofficeoku",
     "stack": "container"
 }
